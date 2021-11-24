@@ -1,0 +1,2 @@
+className=反射配置练习.Student
+methodName=study
